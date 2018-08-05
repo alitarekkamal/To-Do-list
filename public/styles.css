@@ -1,0 +1,45 @@
+* {
+    font-family: "lato", sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background: rgb(245, 245, 245);
+    color: #333333;
+    margin-top: 20px;
+}
+
+.container {
+    display: block;
+    width: 400px;
+    margin: 150 auto;
+    text-align: center;
+    vertical-align: middle;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.list {
+    border: 0px;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.9);
+    margin-bottom: auto;
+}
+
+.li {
+    text-align: left;
+}
+
+.input {
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.button {
+    border-radius: 15px;
+    padding: 5px;
+}
